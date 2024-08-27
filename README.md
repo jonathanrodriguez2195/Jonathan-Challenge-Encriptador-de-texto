@@ -1,4 +1,4 @@
-Jonathan-EncriptadordeTexto
+
 Challenge Encriptador de texto Challenge Encriptador de texto - 2024 - Encriptador de Textos Este proyecto es un encriptador de textos simple creado con HTML, CSS y JavaScript. Permite encriptar y desencriptar mensajes de texto usando un conjunto específico de reglas. Siguiendo la consigna del Challenge propuesto por Alura Latam , solo acepta letras minúsculas, sin acentos, ni caracteres especiales, puntos y comas, tampoco la letra ñ, por ser considerada un caracter especial. El texto se ingresa por un sector señalizado al efecto y sale por otro campo donde se puede copiar el texto encriptado. 
 Características 
 • Encriptar Texto: Convierte vocales en palabras específicas. 
