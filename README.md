@@ -21,7 +21,7 @@ Estructura del Proyecto
 • Script: Archivo JavaScript con la lógica de encriptación y desencriptación.
 • Images: Contine los archivos de imagen.
 
-
+Nota: El programa esta comprimido ya que al ver los tutoriales no di para subir las carpetas de ante mano es funcional solo toca descargar y ejecutar .
 
 Curso Prácticando lógica de programación: Challenge Encriptador de texto
 Desarrollador Jonathan David Rodríguez Narvaez - 2024
